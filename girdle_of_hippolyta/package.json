@@ -1,0 +1,19 @@
+{
+  "name": "girdle_of_hippolyta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "vogsphere@vgs.42.us.org:intra/2019/activities/hercules_girdle_of_hippolyta/fprevela"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.1.1",
+    "read": "^1.0.7"
+  }
+}
