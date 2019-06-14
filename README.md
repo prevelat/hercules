@@ -9,4 +9,4 @@ bull - corewar\
 boar - schedule a command\
 girdle - send email\
 hydra - ping\
-lion - vm port\
+lion - vm port
